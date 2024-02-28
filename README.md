@@ -1,12 +1,17 @@
-<h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> ,I'm Sridhar</h1>
-<h3 align="center">A Proud 🇮🇳 Indian React Developer.</h3>
+<h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> , I'm Sridhar</h1>
+<h3 align="center">A passionate developer driven by curiosity and caffeine ☕💻.</h3>
 <div align="center">
   <a href= "mailto:sridharselvaraj02@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"  />
 </a></div>
 <br/>
+<div align="center">
+  <a href= "https://sridhar-portfolio-site.netlify.app/">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30"  />
+</a></div>
+<br/>
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1vTWFENGee2GxIjR6lT7pp4DvpPrUXEEm" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Resume-green?style=for-the-badge&logo=google-drive" height="40" alt="My Resume">
   </a>
 </p>
@@ -38,21 +43,18 @@
   <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=SriDharan09&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FA9400&fire=FADD92&currStreakLabel=FA9400" alt="SojinSamuel" /></div>
 
 
+<div align="center">  
+
+   ### 😂 Random Meme
+  <img width="49%" height="auto" src="https://randommeme-five.vercel.app/" alt="Sojin Samuel" /> 
 
 
-<div style="display:flex">
+  ### 🔝 Top Contributed Repo
   
-  ### 😂 Random Meme
-  <div>
- <img src='https://randommeme-five.vercel.app/' style="height: 400px; width:400px" alt="meme"/> 
+  <img width="41%" height="auto" src="https://github-contributor-stats.vercel.app/api?username=SriDharan09&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Sojin samuel" />
   </div>
 
- ### 🔝 Top Contributed Repo
-<div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SriDharan09&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="repo"> 
-</div>
-  
-</div>
+
 
 
 <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" style="margin-right:5px"> -->
