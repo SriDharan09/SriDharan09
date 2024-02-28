@@ -6,12 +6,12 @@
 </a></div>
 <br/>
 <div align="center">
-  <a href= "https://sridhar-portfolio-site.netlify.app/">
+  <a href= "https://sridhar-portfolio-site.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30"  />
 </a></div>
 <br/>
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1vTWFENGee2GxIjR6lT7pp4DvpPrUXEEm" target="_blank">
+  <a href="https://drive.google.com/file/d/14F_sofmC4iuKZY_eZvZ8ZZb0_atEqnni/view" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Resume-green?style=for-the-badge&logo=google-drive" height="40" alt="My Resume">
   </a>
 </p>
