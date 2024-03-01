@@ -25,7 +25,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sridhar.kannan.3994) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.r.i_dhar?igsh=b216djVyZ3M5djZu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sridhars9) 
 
-[![](https://visitcount.itsvg.in/api?id=SriDharan09&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SriDharan09&style=flat)
 
 
 
